@@ -2,7 +2,7 @@
 
 # Job Application Platform
 
-![Job Application Platform](path/to/logo.png)
+![Job Application Platform](https://github.com/Abhikanade17112002/CareerCruise/blob/main/client/src/assets/CareerCruise%20Home.png)
 
 ## 📖 Table of Contents
 1. [Project Overview](#project-overview)
